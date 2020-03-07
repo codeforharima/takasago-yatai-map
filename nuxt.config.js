@@ -1,4 +1,12 @@
 import colors from 'vuetify/es5/util/colors'
+const routerBase =
+  process.env.DEPLOY_ENV === 'GH_PAGES'
+    ? {
+        router: {
+          base: '/takasago-yatai-map/'
+        }
+      }
+    : {}
 
 export default {
   mode: 'spa',
@@ -86,5 +94,6 @@ export default {
      ** You can extend webpack config here
      */
     extend(config, ctx) {}
-  }
+  },
+  ...routerBase
 }
