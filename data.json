@@ -1,0 +1,128 @@
+[
+  {
+    "name": "東宮町",
+    "description": "高砂町の南部に位置する地区。高砂神社が建立されている場所でもある",
+    "location": [
+      134.80311,
+      34.74235
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "浜田町",
+    "description": "高砂町の北部に位置する地区。地区内に山陽電鉄本線高砂駅がある",
+    "location": [
+      134.80146,
+      34.75309
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "木曽町",
+    "description": "高砂町の北西部に位置する住宅地",
+    "location": [
+      134.79815,
+      34.75082
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "中部",
+    "description": "",
+    "location": [
+      134.80315,
+      34.74755
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "戎町",
+    "description": "高砂町の南部に位置し、カネカ高砂工場の北に位置する。高砂町内の漁師町である",
+    "location": [
+      134.80271,
+      34.74349
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "西畑",
+    "description": "高砂市の南部に位置する地区",
+    "location": [
+      134.79619,
+      34.74776
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "鍵町",
+    "description": "高砂町の中部に位置し、木曽町・農人町・西畑に接する地区",
+    "location": [
+      134.79976,
+      34.74864
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "農人町",
+    "description": "高砂町の西部に位置する住宅地名・サンモール高砂の西側の地区",
+    "location": [
+      134.80110,
+      34.74888
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  },
+  {
+    "name": "藍屋町",
+    "description": "高砂町の中部の加古川沿いに位置する地区・相生橋の西詰に位置する",
+    "location": [
+      134.80341,
+      34.74822
+    ],
+    "image_yatai": "",
+    "image_kura": "",
+    "hp": {
+      "title": "",
+      "url": ""
+    }
+  }
+]
