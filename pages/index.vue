@@ -7,7 +7,7 @@
             <l-map ref="map" :zoom="zoom" :center="center">
               <l-tile-layer
                 :attribution="attribution"
-                url="http://{s}.tile.osm.org/{z}/{x}/{y}.png"
+                url="https://{s}.tile.osm.org/{z}/{x}/{y}.png"
               />
             </l-map>
           </client-only>
