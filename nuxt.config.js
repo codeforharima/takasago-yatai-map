@@ -59,7 +59,12 @@ export default {
    ** Axios module configuration
    ** See https://axios.nuxtjs.org/options
    */
-  axios: {},
+  axios: {
+    baseURL:
+      process.env.DEPLOY_ENV === 'GH_PAGES'
+        ? 'https://codeforharima.github.io/takasago-yatai-map/'
+        : ''
+  },
   /*
    ** vuetify module configuration
    ** https://github.com/nuxt-community/vuetify-module

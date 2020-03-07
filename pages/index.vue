@@ -49,7 +49,6 @@
 
 <script>
 /* globals L */
-import axios from 'axios'
 
 export default {
   data() {
@@ -92,7 +91,7 @@ export default {
 
   methods: {
     initLayers(map) {
-      axios
+      this.$axios
         .get('/data.json')
         .then((res) => {
           this.items = res.data
